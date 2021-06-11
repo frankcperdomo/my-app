@@ -33,7 +33,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Lets get started</h2>
+        <h2>Lets get started test</h2>
         <Expenses items = {expense}></Expenses>
       </header>
     </div>
